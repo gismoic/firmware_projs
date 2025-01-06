@@ -13,5 +13,3 @@ a successful attempt at interfacing a oled screen with I2C with a atmega328p mic
 
 not much of an impressive program but it was a test to expeirment with other AVR microcontroller models. Software desgined to test hardware and that's pretty much it.
 
-
-
